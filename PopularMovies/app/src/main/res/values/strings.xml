@@ -1,0 +1,17 @@
+<resources>
+
+
+    <string name="app_name">PopularMovies</string>
+
+    <!--  Menu Strings -->
+    <string name="sortByPop">Filter: Most Popular</string>
+    <string name="sortByRated">Filter: Highest-Rated</string>
+    <string name="poster_directory">http://image.tmdb.org/t/p/w185</string>
+    <string name="voteAvg">Average Votes: </string>
+    <string name="releaseDate">Released: </string>
+    <string name="errorMsg">Try connecting to the internet and/or updating your API KEY in NetworkUtils.java.</string>
+    <string name="PosterIVDescription">An image containing the movie\'s poster.</string>
+
+
+
+</resources>
